@@ -7,6 +7,7 @@ export const HomePage = () => {
       <Hero />
       <FeaturedProducts />
       <Testimonial />
+      <Faq />
     </main>
   )
 }
