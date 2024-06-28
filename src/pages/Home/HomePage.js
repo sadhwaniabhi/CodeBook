@@ -4,7 +4,9 @@ import { Hero, Faq, FeaturedProducts, Testimonial } from "./components"
 export const HomePage = () => {
   return (
     <main>
-     <Testimonial />
+      <Hero />
+      <FeaturedProducts />
+      <Testimonial />
     </main>
   )
 }
