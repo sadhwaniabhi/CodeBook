@@ -1,3 +1,3 @@
-export  { Footer } from './Footer.js';
+export  { Footer } from './Layout/Footer';
 
-export { Header } from './Header.js';
+export { Header } from './Layout/Header';
